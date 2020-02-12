@@ -66,12 +66,7 @@ public class StatisticsTest {
         assertEquals(1, stats.topScorers(0).size());
     }
     
-    @Test
-    public void search() {
-        assertEquals("Semenko", stats.search(readerStub.getPlayers().get(0).getName()));
-    }
-    
-    
+      
     @Test
     public void getName() {
         assertEquals("Semenko" , readerStub.getPlayers().get(0).getName());
