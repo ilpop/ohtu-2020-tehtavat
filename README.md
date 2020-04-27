@@ -1,3 +1,3 @@
 # ohtu-2020-tehtavat
 
-[retro](https://github.com/ilpop/ohtu-2020-tehtavat/commit/4b550be2f16f8c6f67df52339f7dac78ddb7729c)
+[retrospektiivi tekniikat [viikko 5, tehtävä 6]](https://github.com/ilpop/ohtu-2020-tehtavat/blob/366f5b75146fa16f2253cf22f711abc025afcb15/retro.md)
